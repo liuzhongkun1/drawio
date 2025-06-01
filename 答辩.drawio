@@ -9,7 +9,7 @@
             <mxPoint x="264" y="106" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZNqmSNZKsT8ieKHdJxz-10" value="&lt;font&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-5">
+        <mxCell id="hZNqmSNZKsT8ieKHdJxz-10" value="&lt;font&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-5">
           <mxGeometry x="-0.0469" y="3" relative="1" as="geometry">
             <mxPoint y="3" as="offset" />
           </mxGeometry>
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-72" value="复合吸附剂" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=#E6E6E6;" parent="SA-Ay3tSNWgj5w2SH-CG-71" vertex="1" connectable="0">
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-72" value="复合吸附剂" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;labelBackgroundColor=#FFFFFF;" parent="SA-Ay3tSNWgj5w2SH-CG-71" vertex="1" connectable="0">
           <mxGeometry x="0.4489" relative="1" as="geometry">
             <mxPoint x="-38" as="offset" />
           </mxGeometry>
@@ -121,7 +121,7 @@
             <mxPoint x="317" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZNqmSNZKsT8ieKHdJxz-9" value="&lt;font&gt;优点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-6">
+        <mxCell id="hZNqmSNZKsT8ieKHdJxz-9" value="&lt;font&gt;优点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-6">
           <mxGeometry x="0.0563" y="2" relative="1" as="geometry">
             <mxPoint x="12" y="-2" as="offset" />
           </mxGeometry>
@@ -132,7 +132,7 @@
             <mxPoint x="493" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZNqmSNZKsT8ieKHdJxz-13" value="&lt;font&gt;优点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-7">
+        <mxCell id="hZNqmSNZKsT8ieKHdJxz-13" value="&lt;font&gt;优点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-7">
           <mxGeometry x="-0.0162" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -143,7 +143,7 @@
             <mxPoint x="284" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZNqmSNZKsT8ieKHdJxz-12" value="&lt;font&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6E6E6;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-8">
+        <mxCell id="hZNqmSNZKsT8ieKHdJxz-12" value="&lt;font&gt;缺点&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFFF;fontSize=22;" vertex="1" connectable="0" parent="hZNqmSNZKsT8ieKHdJxz-8">
           <mxGeometry x="-0.0003" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
