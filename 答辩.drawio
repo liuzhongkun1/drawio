@@ -1,0 +1,163 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="lwQXRpGHXBCCs9l4Dj0U">
+    <mxGraphModel dx="1603" dy="935" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;BC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;孔隙率高&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="198" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;吸附活性位点较少&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="198" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-7" target="SA-Ay3tSNWgj5w2SH-CG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="197.7" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="160" />
+              <mxPoint x="350" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-19" value="缺点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="SA-Ay3tSNWgj5w2SH-CG-12">
+          <mxGeometry x="0.821" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-20" value="优点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="SA-Ay3tSNWgj5w2SH-CG-12">
+          <mxGeometry x="-0.7824" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SA-Ay3tSNWgj5w2SH-CG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="160" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-25" target="SA-Ay3tSNWgj5w2SH-CG-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;热碱处理污染环境&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="233" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;高比表面积&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="233" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-35" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;β-FeOOH&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="655" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;稳定性差&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="198" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;表面官能团丰富&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="198" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-36" target="SA-Ay3tSNWgj5w2SH-CG-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="197.7" as="sourcePoint" />
+            <mxPoint x="700" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="160" />
+              <mxPoint x="810" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-39" value="优点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="SA-Ay3tSNWgj5w2SH-CG-38">
+          <mxGeometry x="0.821" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-40" value="缺点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="SA-Ay3tSNWgj5w2SH-CG-38">
+          <mxGeometry x="-0.7824" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SA-Ay3tSNWgj5w2SH-CG-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="160" as="sourcePoint" />
+            <mxPoint x="710" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;吸附活性位点丰富&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="233" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-43" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;易团聚&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="233" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;吸附后难分离&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="268" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-46" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;水解反应制备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="268" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-47" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;三维网络结构&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="268" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="286" as="sourcePoint" />
+            <mxPoint x="510" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="250.44" as="sourcePoint" />
+            <mxPoint x="510" y="250.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-8" target="SA-Ay3tSNWgj5w2SH-CG-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="260" as="sourcePoint" />
+            <mxPoint x="504" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-68" target="SA-Ay3tSNWgj5w2SH-CG-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-68" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;保留木醋杆菌（BCA）&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="355" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SA-Ay3tSNWgj5w2SH-CG-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="216" as="sourcePoint" />
+            <mxPoint x="576" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="533" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-72" value="复合吸附剂" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="SA-Ay3tSNWgj5w2SH-CG-71">
+          <mxGeometry x="0.4489" relative="1" as="geometry">
+            <mxPoint x="-39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-79" value="BCA@FeOOH" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="548" y="372.5" width="180" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.453;exitY=0.931;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-47" target="SA-Ay3tSNWgj5w2SH-CG-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="475" as="sourcePoint" />
+            <mxPoint x="160" y="425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="132" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-46" target="SA-Ay3tSNWgj5w2SH-CG-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="391" as="sourcePoint" />
+            <mxPoint x="620" y="341" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
