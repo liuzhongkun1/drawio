@@ -73,7 +73,7 @@
         <mxCell id="SA-Ay3tSNWgj5w2SH-CG-68" value="&lt;font&gt;保留木醋杆菌&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BCA）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="169" y="351" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-79" value="BCA@FeOOH" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;" parent="1" vertex="1">
+        <mxCell id="SA-Ay3tSNWgj5w2SH-CG-79" value="BCA@FeOOH" style="whiteSpace=wrap;html=1;rounded=0;fontSize=22;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="457" y="368.5" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="SA-Ay3tSNWgj5w2SH-CG-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;" parent="1" source="SA-Ay3tSNWgj5w2SH-CG-47" target="SA-Ay3tSNWgj5w2SH-CG-79" edge="1">
